@@ -1,0 +1,7 @@
+version: '2'
+
+services: 
+  pages:
+    build: "./pages"
+    ports: 
+     - "8000:3000"
