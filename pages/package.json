@@ -1,0 +1,14 @@
+{
+  "name": "pages",
+  "version": "1.0.0",
+  "description": "A micro service to deliver pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.9.5"
+  }
+}

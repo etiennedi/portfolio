@@ -1,0 +1,14 @@
+{
+	"pages": [
+		{
+			"id": "11111",
+			"title": "A first sample page",
+			"content": "This is the content of a sample page \n Hello, hello!"
+		},
+		{
+			"id": "22222",
+			"title": "Another sample page",
+			"content": "Believe me, I have great samples. The best samples. Tremendous Samples."
+		}
+	]
+}
