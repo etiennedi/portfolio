@@ -5,3 +5,7 @@ services:
     build: "./pages"
     ports: 
      - "8000:3000"
+  styleguide:
+    build: "./styleguide"
+    ports:
+     - "8100:8000"
