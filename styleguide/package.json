@@ -28,6 +28,10 @@
   },
   "scripts": {
     "start": "styleguidist server",
-    "styleguide-build": "styleguidist build"
+    "build": "styleguidist build"
+  },
+  "devDependencies": {
+    "express": "^4.15.2",
+    "express-history-api-fallback": "^2.1.0"
   }
 }
